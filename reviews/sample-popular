@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Artist — Album (Popular)</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Tourney:wght@700;900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="../assets/site.css" />
+</head>
+
+<body class="theme-popular">
+  <header class="mast">
+    <div class="kicker">POPULAR</div>
+    <h1>Artist — Album</h1>
+    <p class="sub">2026-01-03</p>
+  </header>
+
+  <main class="content">
+    <section class="panel">
+      <h2>One-line verdict</h2>
+      <p>Good ideas. Annoying execution. I still played it twice.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Fast notes</h2>
+      <ul>
+        <li><b>Best track:</b> …</li>
+        <li><b>Skip:</b> …</li>
+        <li><b>Sounds like:</b> …</li>
+        <li><b>For people who like:</b> …</li>
+      </ul>
+    </section>
+
+    <section class="panel">
+      <h2>Score</h2>
+      <p>6.5 / 10</p>
+    </section>
+
+    <section class="panel">
+      <p><a href="../index.html">← back</a></p>
+    </section>
+  </main>
+</body>
+</html>
